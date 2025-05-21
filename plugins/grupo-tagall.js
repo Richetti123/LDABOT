@@ -6,10 +6,10 @@ throw false
 
 if (command == 'tagall' || command == 'invocar' || command == 'todos' || command == 'invocación' || command == 'invocacion') {
 let pesan = args.join` `
-let oi = `@richetti_123 ${pesan}`
-let teks = `${global.packname} te invoca despiertate😡!!\n\n${oi}\n\n`
+let oi = `@dani_anthony69 ${pesan}`
+let teks = `ACTIVENSE KCHUD@S \n\n${oi}\n\n`
 for (let mem of participants) {
-teks += `😼 @${mem.id.split('@')[0]}\n`}
+teks += `💙❤️ @${mem.id.split('@')[0]}\n`}
 teks += `${global.packname}`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )  
 }
