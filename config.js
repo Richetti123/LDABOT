@@ -104,7 +104,7 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5217771303481", 'LDABOT', 1], 
+["56935582935", 'LDABOT', 1], 
 ["5217771303481", 'LDABOT', 1],  
 ["5217771303481", 'LDABOT', 1]]
 
